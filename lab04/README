@@ -1,0 +1,11 @@
+Uzywane biblioteki:
+
+hashlib
+hmac 
+secrets
+
+Aby urucomić kazde zadanie trzeba w terminalu napisać:
+
+Dla pierwszego zadania: python zad1.py 
+Dla drugiego zadania: python zad2.py 
+Dla trzeciego zadania: python zad3.py 
